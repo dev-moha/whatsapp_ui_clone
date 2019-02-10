@@ -1,6 +1,11 @@
 # whatsapp_clone
 
-A new Flutter project.
+A new Flutter project
+
+<img src="pic1.png" width="300">
+  <img src="pic2.png" width="300">
+  <img src="pic3.png" width="300">
+  <img src="pic4.png" width="300">
 
 ## Getting Started
 
